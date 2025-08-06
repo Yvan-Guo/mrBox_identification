@@ -14,12 +14,16 @@ Windows (Windows Server 21H2) or Linux (Ubuntu 20.18)
 
 # Software requirement:
 Python v3.9
+
 CUDA v11.7.10
+
 MeshClust v3.0
-tensorflow　
+
+tensorflow-gpu / tensorflow (paired with CUDA & GPU/CPU required)
 
 # data source
-450K methylation DNA methylation data can be obtained from TCGA GDC database (https://portal.gdc.cancer.gov/)　
+450K methylation DNA methylation data can be obtained from TCGA GDC database (https://portal.gdc.cancer.gov/)
+
 GRCh38.p13 can be downloaded from GENCODE dataset(https://www.gencodegenes.org/human/release_38.html)
 
 # Expected outcome
