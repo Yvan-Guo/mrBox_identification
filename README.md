@@ -28,3 +28,7 @@ GRCh38.p13 can be downloaded from GENCODE dataset(https://www.gencodegenes.org/h
 
 # Expected outcome
 Recreated mrBox identification in https://doi.org/10.21203/rs.3.rs-7223043/v1
+
+Detailed instruction can be found in https://doi.org/10.21203/rs.3.rs-7223043/v1
+
+
