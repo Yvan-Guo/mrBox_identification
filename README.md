@@ -21,7 +21,7 @@ MeshClust v3.0
 
 tensorflow-gpu / tensorflow (paired with CUDA & GPU/CPU required)
 
-# data source
+# Data source
 450K methylation DNA methylation data can be obtained from TCGA GDC database (https://portal.gdc.cancer.gov/)
 
 GRCh38.p13 can be downloaded from GENCODE dataset(https://www.gencodegenes.org/human/release_38.html)
