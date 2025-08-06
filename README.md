@@ -1,6 +1,6 @@
 # mrBox_identification
 
-Screening of DNA methylation regulatory boxes (mrBox) with convolutional neural networks (CNN) following data distillation.
+Screening of DNA methylation regulatory boxes (mrBox) with convolutional neural networks (CNN) following data distilation.
 
 # Overview
 
@@ -26,9 +26,11 @@ tensorflow-gpu / tensorflow (paired with CUDA & GPU/CPU required)
 
 GRCh38.p13 can be downloaded from GENCODE dataset(https://www.gencodegenes.org/human/release_38.html)
 
+# Instruction
+Detailed instruction can be found in https://doi.org/10.21203/rs.3.rs-7223043/v1
+
 # Expected outcome
 Recreated mrBox identification in https://doi.org/10.21203/rs.3.rs-7223043/v1
 
-Detailed instruction can be found in https://doi.org/10.21203/rs.3.rs-7223043/v1
 
 
