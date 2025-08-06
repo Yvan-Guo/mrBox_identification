@@ -1,6 +1,6 @@
 # mrBox_identification
 
-Screening of DNA methylation regulatory boxes (mrBox) with convolutional neural networks following data distillation.
+Screening of DNA methylation regulatory boxes (mrBox) with convolutional neural networks (CNN) following data distillation.
 
 # Overview
 
